@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pexels</string>
+    <string name="first_screen_description">News according to your\nPrefrence and Interest.</string>
+    <string name="second_screen_description">Read anytime anywhere\nevenwithout internet.</string>
+    <string name="third_screen_description">Share with your\nfriends and community</string>
+    <string name="continue_text">Continue</string>
+    <string name="skip">Skip</string>
+    <string name="search_input_hint">Search</string>
+    <string name="no_results_found">No results found</string>
+    <string name="explore">Explore</string>
+    <string name="ok">OK</string>
+    <string name="no_internet_connection">You have no internet connection.\nWait for recovery.</string>
+    <string name="try_again">Try Again</string>
+    <string name="not_found_error_message">Nothing found.\nTry again.</string>
+    <string name="server_error_message">Server error.\nTry later.</string>
+    <string name="other_error_message">Some error.\nTry again.</string>
+    <string name="image_jpeg">image/jpeg</string>
+    <string name="photo_jpg">photo.jpg</string>
+    <string name="download">Download</string>
+    <string name="close_snack_bar">Close</string>
+    <string name="downloading_error">Download error!</string>
+    <string name="downloading_successful">Download successful!</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="nothing_saved">You haven\'t saved anything yet</string>
+    <string name="data_loading_error">Data loading error.\nSwipe down to try again</string>
+</resources>
